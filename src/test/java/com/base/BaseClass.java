@@ -71,6 +71,10 @@ public class BaseClass {
 		byte[] bytes = screenshot.getScreenshotAs(OutputType.BYTES);
 		return bytes;
 	}
+	
+	public static void methodOver() {
+       System.out.println("adactin hotel git");
+	}
 
 	/**
 	 * 
