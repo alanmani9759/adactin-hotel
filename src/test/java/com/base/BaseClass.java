@@ -89,6 +89,10 @@ public class BaseClass {
 		return value;
 
 	}
+	
+	public static void hotelVerify() {
+        System.out.println("Alan git method");
+	}
 
 	/**
 	 * 
